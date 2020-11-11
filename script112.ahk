@@ -1,4 +1,3 @@
 {
-CapsLock::Backspace
-Backspace::F4
+Backspace::F12
 }
