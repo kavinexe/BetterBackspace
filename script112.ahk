@@ -1,4 +1,4 @@
 {
 CapsLock::Backspace
-Backspace::Ctrl+Backspace
+Backspace::F4
 }
